@@ -1,6 +1,6 @@
 ## c++ game with sfml (unfinish)
 https://www.sfml-dev.org/
-> project ni dibuat dalam visual studio,
+> project ni dibuat dalam ~~visual studio~~ vscode,
 > tapi kalau tahu macam mane nak pakai bende lain sila kan
 
 ### todo fix
