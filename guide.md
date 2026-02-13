@@ -3,7 +3,7 @@
   - download sfml(MinGW 64-bit) dan compiler (MinGW 64-bit) dari sfml
 ![alt text](https://github.com/Rifqi2007c/dcs-project/blob/main/readme-asset/3.png)
   - downlaod repo ni
-    - download zip atau pakai git: `git clone`
+    - download zip atau pakai git: `git clone https://github.com/Rifqi2007c/dcs-project.git`
     - letak folder `dcs-project` dalam user directory. cth `Users\rifqi`
   - unzip sfml dengan compiler, letak dalam dcs-project folder
 ![alt text](https://github.com/Rifqi2007c/dcs-project/blob/main/readme-asset/1.png)
