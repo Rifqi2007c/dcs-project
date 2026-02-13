@@ -16,7 +16,8 @@
 
 ![alt text](https://github.com/Rifqi2007c/dcs-project/blob/main/readme-asset/4.png) 
 
-> sebelum compile copy asset, paste ke `mingw64\bin`
+> sebelum compile copy asset, paste ke `mingw64\bin`<p>
 > for some bs reason, dia tak nak ambik asset dari folder `asset`
-masalah ni ade kan windows je, nak betul kan kene pakai visual studio (kalau korang sanggup nak download) atau CMAKE
+
+masalah ni ade kat windows je, nak betul kan kene pakai visual studio (kalau korang sanggup nak download) atau CMAKE
 jadi nanti aku akan try implemnt cmake script nanti nanti. that`s that, this is this.
